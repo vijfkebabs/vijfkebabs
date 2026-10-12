@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm VijfKebabs 👋
 
-<!--
-**vijfkebabs/vijfkebabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm building my GitHub presence and using this space to document what I work on, learn, and create.
+
+## Activity
+
+- 🚀 Started this profile repository on October 12, 2026.
+- 🧭 Exploring ideas and projects that I can develop and share here.
+- 📚 Learning through hands-on experimentation and consistent practice.
+
+## What you'll find here
+
+This profile will grow as I add projects, experiments, and notes about my work. Check back for updates.
+
+## Connect
+
+- GitHub: [@vijfkebabs](https://github.com/vijfkebabs)
