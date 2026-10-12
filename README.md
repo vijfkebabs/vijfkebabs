@@ -11,7 +11,3 @@ Passionate about linux: scripting, ricing...
 ## What you'll find here
 
 Linux dots
-
-## Connect
-
-- GitHub: [@vijfkebabs](https://github.com/vijfkebabs)
