@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390">
+  <rect width="1200" height="390" rx="16" fill="#0d1117"/>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="17" xml:space="preserve">
+    <text x="36" y="100" fill="#8be9fd" font-family="'Courier New', monospace" xml:space="preserve">        _ _  __ _        _           _</text>
+    <text x="36" y="125" fill="#8be9fd" font-family="'Courier New', monospace" xml:space="preserve">       (_|_)/ _| |      | |         | |</text>
+    <text x="36" y="150" fill="#8be9fd" font-family="'Courier New', monospace" xml:space="preserve"> __   ___ _| |_| | _____| |__   __ _| |__  ___</text>
+    <text x="36" y="175" fill="#8be9fd" font-family="'Courier New', monospace" xml:space="preserve"> \ \ / / | |  _| |/ / _ \ '_ \ / _` | '_ \/ __|</text>
+    <text x="36" y="200" fill="#8be9fd" font-family="'Courier New', monospace" xml:space="preserve">  \ V /| | | | |   &lt;  __/ |_) | (_| | |_) \__ \</text>
+    <text x="36" y="225" fill="#8be9fd" font-family="'Courier New', monospace" xml:space="preserve">   \_/ |_| |_| |_|\_\___|_.__/ \__,_|_.__/|___/</text>
+    <text x="36" y="250" fill="#8be9fd" font-family="'Courier New', monospace" xml:space="preserve">        _/ |</text>
+    <text x="36" y="275" fill="#8be9fd" font-family="'Courier New', monospace" xml:space="preserve">       |__/</text>
+    <text x="610" y="47" fill="#8be9fd">vijfkebabs@github</text>
+    <text x="773" y="47" fill="#f8f8f2">-------------------------------------------</text>
+
+    <text x="610" y="82" fill="#ffb86c">OS</text>
+    <text x="770" y="82" fill="#f8f8f2">Linux, Arch Linux, CachyOS, Debian, Windows</text>
+    <text x="610" y="112" fill="#ffb86c">Shells</text>
+    <text x="770" y="112" fill="#f8f8f2">Bash, Fish</text>
+    <text x="610" y="142" fill="#ffb86c">Languages</text>
+    <text x="770" y="142" fill="#f8f8f2">Python, Lua, JavaScript, HTML, CSS, YAML</text>
+    <text x="610" y="172" fill="#ffb86c">Desktop</text>
+    <text x="770" y="172" fill="#f8f8f2">Hyprland, KDE Plasma</text>
+    <text x="610" y="202" fill="#ffb86c">Tools</text>
+    <text x="770" y="202" fill="#f8f8f2">Git, Docker, VS Code</text>
+
+    <text x="610" y="252" fill="#8be9fd">Contact</text>
+    <text x="680" y="252" fill="#f8f8f2">----------------------------------------------------</text>
+    <text x="610" y="287" fill="#ffb86c">GitHub</text>
+    <text x="770" y="287" fill="#8be9fd">github.com/vijfkebabs</text>
+    <text x="610" y="317" fill="#ffb86c">Discord</text>
+    <text x="770" y="317" fill="#8be9fd">discord.com/users/1474707725249286245</text>
+  </g>
+</svg>
