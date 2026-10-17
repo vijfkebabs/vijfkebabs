@@ -20,7 +20,7 @@
 <font color="#ffb86c">Languages</font>....... <a href="https://www.python.org/">Python</a>, <a href="https://www.lua.org/">Lua</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>, <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>, <a href="https://yaml.org/">YAML</a>
 <font color="#ffb86c">Desktop</font>......... <a href="https://hyprland.org/">Hyprland</a>, <a href="https://kde.org/plasma-desktop/">KDE Plasma</a>
 <font color="#ffb86c">Tools</font>........... <a href="https://git-scm.com/">Git</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://code.visualstudio.com/">VS Code</a>
-<font color="#8be9fd">Contact</font> ---------------------------------------------------
+<a href=""><font color="#8be9fd">Contact</font></a> ---------------------------------------------------
 <font color="#ffb86c">GitHub</font>.......... <a href="https://github.com/vijfkebabs">github.com/vijfkebabs</a>
 <font color="#ffb86c">Discord</font>......... <a href="https://discord.com/users/1474707725249286245">discord.com/users/1474707725249286245</a>
       </pre>
