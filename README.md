@@ -21,8 +21,8 @@
 <font color="#ffb86c">Desktop</font>......... <a href="https://hyprland.org/">Hyprland</a>, <a href="https://kde.org/plasma-desktop/">KDE Plasma</a>
 <font color="#ffb86c">Tools</font>........... <a href="https://git-scm.com/">Git</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://code.visualstudio.com/">VS Code</a>
 <font color="#8be9fd">Contact</font> ---------------------------------------------------
-<a href="https://github.com/vijfkebabs"><font color="#ffb86c">GitHub</font></a>.......... <a href="https://github.com/vijfkebabs">github.com/vijfkebabs</a>
-<a href="https://discord.com/"><font color="#ffb86c">Discord</font></a>......... <a href="https://discord.com/users/1474707725249286245">discord.com/users/1474707725249286245</a>
+<font color="#ffb86c">GitHub</font>.......... <a href="https://github.com/vijfkebabs">github.com/vijfkebabs</a>
+<font color="#ffb86c">Discord</font>......... <a href="https://discord.com/users/1474707725249286245">discord.com/users/1474707725249286245</a>
       </pre>
     </td>
   </tr>
