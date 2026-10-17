@@ -13,7 +13,7 @@
     <text x="773" y="47" fill="#f8f8f2">-------------------------------------------</text>
 
     <text x="610" y="82" fill="#ffb86c">OS</text>
-    <text x="770" y="82" fill="#f8f8f2">Linux, Arch Linux, CachyOS, Debian, Windows</text>
+    <text x="770" y="82" fill="#f8f8f2">Arch Linux, CachyOS, Debian, Windows</text>
     <text x="610" y="112" fill="#ffb86c">Shells</text>
     <text x="770" y="112" fill="#f8f8f2">Bash, Fish</text>
     <text x="610" y="142" fill="#ffb86c">Languages</text>
