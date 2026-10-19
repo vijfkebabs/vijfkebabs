@@ -10,7 +10,7 @@
     <text x="36" y="250" fill="#8be9fd" font-family="'Courier New', monospace" xml:space="preserve">        _/ |</text>
     <text x="36" y="275" fill="#8be9fd" font-family="'Courier New', monospace" xml:space="preserve">       |__/</text>
     <text x="610" y="47" fill="#8be9fd">vijfkebabs@github</text>
-    <text x="773" y="47" fill="#f8f8f2">-------------------------------------------</text>
+    <text x="782" y="47" fill="#f8f8f2">-------------------------------------------</text>
 
     <text x="610" y="82" fill="#ffb86c">OS</text>
     <text x="770" y="82" fill="#f8f8f2">ArchLinux, CachyOS, Debian, Windows</text>
