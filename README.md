@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/fastfetch.svg?v=2" alt="Vijfkebabs fastfetch">
+  <img src="./assets/fastfetch.svg?v=3" alt="Vijfkebabs fastfetch">
 </p>
 
 <p align="center">
